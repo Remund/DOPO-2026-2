@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SlotMachineContestCTest
+comment0.text=\r\n\ Clase\ de\ pruebas\ COMPARTIDAS\ del\ tercer\ ciclo\ (creaci\u00F3n\ colectiva\ del\r\n\ curso).\ Los\ casos\ de\ este\ grupo\ usan\ las\ iniciales\ del\ autor\:\r\n\ Mora\ Casas\ (Mc)\ ->\ accordingMc...\r\n\r\n\ @author\ \ Mora\ Casas\ (y\ dem\u00E1s\ autores\ del\ curso)\r\n\ @version\ 1.0\ (ciclo\ 3)\r\n
+comment1.params=
+comment1.target=SlotMachineContestCTest()
+comment1.text=\r\n\ Crea\ el\ conjunto\ de\ pruebas.\r\n
+comment2.params=
+comment2.target=void\ accordingMcShouldWinWithTheActionsOfSolve()
+comment2.text=\r\n\ Para\ cualquier\ n,\ aplicar\ las\ acciones\ de\ solve\ deber\u00EDa\ llevar\ a\r\n\ una\ configuraci\u00F3n\ ganadora.\r\n
+comment3.params=
+comment3.target=void\ accordingMcShouldNotReturnUnnecessaryActions()
+comment3.text=\r\n\ solve\ NO\ deber\u00EDa\ usar\ m\u00E1s\ de\ una\ acci\u00F3n\ por\ rueda\ ni\ rotar\ m\u00E1s\ de\r\n\ media\ vuelta\ (las\ acciones\ son\ las\ necesarias).\r\n
+numComments=4

@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=SlotMachineContestTest
+comment0.text=\r\n\ Pruebas\ de\ unidad\ del\ TERCER\ CICLO\:\ la\ m\u00E1quina\ de\ n\ ruedas\ y\ n\r\n\ s\u00EDmbolos,\ SlotMachine(n)\ (requisito\ 13),\ y\ la\ soluci\u00F3n\ del\ problema\r\n\ de\ la\ marat\u00F3n,\ SlotMachineContest.solve\ (requisito\ 14).\ Todas\ en\ modo\r\n\ INVISIBLE.\ simulate\ (requisito\ 15)\ se\ verifica\ en\ las\ pruebas\ de\r\n\ aceptaci\u00F3n,\ porque\ necesita\ el\ simulador\ visible.\r\n\r\n\ @author\ \ Mora\ Casas\r\n\ @version\ 3.0\ (ciclo\ 3)\r\n
+comment1.params=
+comment1.target=SlotMachineContestTest()
+comment1.text=\r\n\ Crea\ el\ conjunto\ de\ pruebas.\r\n
+comment10.params=
+comment10.target=void\ shouldNotMakeTheMachineVisibleWhenSolving()
+comment10.text=\r\n\ solve\ NO\ deber\u00EDa\ hacer\ visible\ la\ m\u00E1quina.\r\n
+comment2.params=
+comment2.target=void\ shouldCreateNWheelsAndNSymbols()
+comment2.text=\r\n\ SlotMachine(n)\ deber\u00EDa\ crear\ n\ ruedas\ y\ n\ s\u00EDmbolos.\r\n
+comment3.params=
+comment3.target=void\ shouldNotRepeatSymbolColors()
+comment3.text=\r\n\ SlotMachine(n)\ NO\ deber\u00EDa\ repetir\ colores\ en\ sus\ s\u00EDmbolos.\r\n
+comment4.params=
+comment4.target=void\ shouldNotStartInJackpotNorVisible()
+comment4.text=\r\n\ SlotMachine(n)\ NO\ deber\u00EDa\ empezar\ en\ jackpot\ ni\ visible.\r\n
+comment5.params=
+comment5.target=void\ shouldShowASymbolOfTheCatalogOnEveryWheel()
+comment5.text=\r\n\ SlotMachine(n)\ deber\u00EDa\ dejar\ toda\ rueda\ mostrando\ un\ s\u00EDmbolo\ de\ su\r\n\ cat\u00E1logo.\r\n
+comment6.params=
+comment6.target=void\ shouldSolveMachinesOfSeveralSizes()
+comment6.text=\r\n\ solve\ deber\u00EDa\ dejar\ la\ m\u00E1quina\ en\ jackpot\ (k\ \=\ 1)\ para\ varios\ n.\r\n
+comment7.params=
+comment7.target=void\ shouldReturnTheActionsFromTheInitialConfiguration()
+comment7.text=\r\n\ solve\ deber\u00EDa\ retornar\ acciones\ que\ llevan\ de\ la\ configuraci\u00F3n\r\n\ inicial\ a\ una\ ganadora.\r\n
+comment8.params=
+comment8.target=void\ shouldNotReturnInvalidActions()
+comment8.text=\r\n\ solve\ NO\ deber\u00EDa\ retornar\ acciones\ sobre\ ruedas\ inexistentes\ ni\r\n\ m\u00E1s\ de\ una\ acci\u00F3n\ por\ rueda.\r\n
+comment9.params=
+comment9.target=void\ shouldNotMoveAMachineAlreadyInJackpot()
+comment9.text=\r\n\ solve\ NO\ deber\u00EDa\ mover\ nada\ si\ la\ m\u00E1quina\ ya\ est\u00E1\ en\ jackpot.\r\n
+numComments=11
